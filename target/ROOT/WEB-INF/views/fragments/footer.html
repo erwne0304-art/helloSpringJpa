@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<body>
+<!--
+    공통 Footer Fragment
+    각 뷰에서 th:replace="~{fragments/footer :: footer}" 로 삽입합니다.
+
+    #temporals.createNow() : java.time.LocalDateTime.now() 를 반환합니다.
+    #temporals.format()    : DateTimeFormatter 패턴으로 포맷합니다.
+    'E'                    : 요일 약어 (JVM 기본 Locale 사용)
+-->
+<footer th:fragment="footer"
+        style="margin-top:40px; padding:10px; border-top:1px solid #ccc; text-align:center; color:#666;">
+    <p th:text="${'실습 수행 일시: ' + #temporals.format(#temporals.createNow(), 'yyyy년 MM월 dd일 (E) HH:mm:ss') + ' | 학번: [2371324] | 성명: [박하영]'}"></p>
+</footer>
+</body>
+</html>

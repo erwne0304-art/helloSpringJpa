@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"git push origin master\"}",
+  "error": "Exit code 128\nremote: Permission to erwne0304-art/helloSpringJpa.git denied to nYeonG4001.\nfatal: unable to access 'https://github.com/erwne0304-art/helloSpringJpa.git/': The requested URL returned error: 403",
+  "timestamp": "2026-04-16T07:49:39.364Z",
+  "retry_count": 1
+}

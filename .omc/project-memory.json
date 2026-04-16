@@ -1,0 +1,169 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1776324540846,
+  "projectRoot": "/Users/erwne/erwne0304/test",
+  "techStack": {
+    "languages": [
+      {
+        "name": "Java",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "pom.xml"
+        ]
+      }
+    ],
+    "frameworks": [],
+    "packageManager": "maven",
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "src"
+    ],
+    "gitBranches": {
+      "defaultBranch": "master",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "src": {
+      "path": "src",
+      "purpose": "Source code",
+      "fileCount": 0,
+      "lastAccessed": 1776324540831,
+      "keyFiles": []
+    },
+    "target": {
+      "path": "target",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1776324540831,
+      "keyFiles": [
+        "ROOT.war"
+      ]
+    },
+    "src/test": {
+      "path": "src/test",
+      "purpose": "Test files",
+      "fileCount": 0,
+      "lastAccessed": 1776324540832,
+      "keyFiles": []
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "src/main/webapp/WEB-INF/views/productList.html",
+      "accessCount": 2,
+      "lastAccessed": 1776324736165,
+      "type": "file"
+    },
+    {
+      "path": "src/main/webapp/WEB-INF/views/productForm.html",
+      "accessCount": 2,
+      "lastAccessed": 1776324748001,
+      "type": "file"
+    },
+    {
+      "path": "src/main/webapp/WEB-INF/views/productEditForm.html",
+      "accessCount": 2,
+      "lastAccessed": 1776324765889,
+      "type": "file"
+    },
+    {
+      "path": "src/main/webapp/WEB-INF/views/productView.html",
+      "accessCount": 2,
+      "lastAccessed": 1776324774177,
+      "type": "file"
+    },
+    {
+      "path": "src/main/webapp/WEB-INF/views/error.html",
+      "accessCount": 2,
+      "lastAccessed": 1776324781375,
+      "type": "file"
+    },
+    {
+      "path": "src/main/webapp/WEB-INF/views/fragments/footer.html",
+      "accessCount": 2,
+      "lastAccessed": 1776324887335,
+      "type": "file"
+    },
+    {
+      "path": "src/main/java/kr/ac/hansung/cse/config/DbConfig.java",
+      "accessCount": 2,
+      "lastAccessed": 1776325556582,
+      "type": "file"
+    },
+    {
+      "path": "src/main/java/kr/ac/hansung/cse/controller/ProductController.java",
+      "accessCount": 1,
+      "lastAccessed": 1776324629091,
+      "type": "file"
+    },
+    {
+      "path": "src/main/java/kr/ac/hansung/cse/service/ProductService.java",
+      "accessCount": 1,
+      "lastAccessed": 1776324629649,
+      "type": "file"
+    },
+    {
+      "path": "src/main/java/kr/ac/hansung/cse/repository/ProductRepository.java",
+      "accessCount": 1,
+      "lastAccessed": 1776324630094,
+      "type": "file"
+    },
+    {
+      "path": "src/main/java/kr/ac/hansung/cse/model/Product.java",
+      "accessCount": 1,
+      "lastAccessed": 1776324630915,
+      "type": "file"
+    },
+    {
+      "path": "src/main/java/kr/ac/hansung/cse/model/ProductForm.java",
+      "accessCount": 1,
+      "lastAccessed": 1776324631429,
+      "type": "file"
+    },
+    {
+      "path": "src/main/java/kr/ac/hansung/cse/config/WebConfig.java",
+      "accessCount": 1,
+      "lastAccessed": 1776324631711,
+      "type": "file"
+    },
+    {
+      "path": "pom.xml",
+      "accessCount": 1,
+      "lastAccessed": 1776324680707,
+      "type": "file"
+    },
+    {
+      "path": "docker-compose.yml",
+      "accessCount": 1,
+      "lastAccessed": 1776324911217,
+      "type": "file"
+    },
+    {
+      "path": "src/main/java/kr/ac/hansung/cse/config/WebAppInitializer.java",
+      "accessCount": 1,
+      "lastAccessed": 1776324912177,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
