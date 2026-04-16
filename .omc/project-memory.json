@@ -70,8 +70,8 @@
   "hotPaths": [
     {
       "path": "src/main/webapp/WEB-INF/views/productList.html",
-      "accessCount": 2,
-      "lastAccessed": 1776324736165,
+      "accessCount": 4,
+      "lastAccessed": 1776327120953,
       "type": "file"
     },
     {
@@ -192,6 +192,24 @@
       "path": "src/main/java/kr/ac/hansung/cse/service/CategoryService.java",
       "accessCount": 1,
       "lastAccessed": 1776326897514,
+      "type": "file"
+    },
+    {
+      "path": "src/main/java/kr/ac/hansung/cse/controller/CategoryController.java",
+      "accessCount": 1,
+      "lastAccessed": 1776327096311,
+      "type": "file"
+    },
+    {
+      "path": "src/main/webapp/WEB-INF/views/categoryList.html",
+      "accessCount": 1,
+      "lastAccessed": 1776327106657,
+      "type": "file"
+    },
+    {
+      "path": "src/main/webapp/WEB-INF/views/categoryForm.html",
+      "accessCount": 1,
+      "lastAccessed": 1776327114739,
       "type": "file"
     }
   ],

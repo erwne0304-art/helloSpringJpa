@@ -1,6 +1,7 @@
 /Users/erwne/erwne0304/test/src/main/java/kr/ac/hansung/cse/config/DbConfig.java
 /Users/erwne/erwne0304/test/src/main/java/kr/ac/hansung/cse/config/WebAppInitializer.java
 /Users/erwne/erwne0304/test/src/main/java/kr/ac/hansung/cse/config/WebConfig.java
+/Users/erwne/erwne0304/test/src/main/java/kr/ac/hansung/cse/controller/CategoryController.java
 /Users/erwne/erwne0304/test/src/main/java/kr/ac/hansung/cse/controller/ProductController.java
 /Users/erwne/erwne0304/test/src/main/java/kr/ac/hansung/cse/exception/DuplicateCategoryException.java
 /Users/erwne/erwne0304/test/src/main/java/kr/ac/hansung/cse/exception/GlobalExceptionHandler.java
