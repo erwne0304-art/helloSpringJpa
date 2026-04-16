@@ -111,6 +111,12 @@
       "type": "file"
     },
     {
+      "path": "src/main/java/kr/ac/hansung/cse/repository/CategoryRepository.java",
+      "accessCount": 2,
+      "lastAccessed": 1776326606695,
+      "type": "file"
+    },
+    {
       "path": "src/main/java/kr/ac/hansung/cse/controller/ProductController.java",
       "accessCount": 1,
       "lastAccessed": 1776324629091,
@@ -162,6 +168,30 @@
       "path": "src/main/java/kr/ac/hansung/cse/config/WebAppInitializer.java",
       "accessCount": 1,
       "lastAccessed": 1776324912177,
+      "type": "file"
+    },
+    {
+      "path": "src/main/java/kr/ac/hansung/cse/model/Category.java",
+      "accessCount": 1,
+      "lastAccessed": 1776326584356,
+      "type": "file"
+    },
+    {
+      "path": "src/main/java/kr/ac/hansung/cse/model/CategoryForm.java",
+      "accessCount": 1,
+      "lastAccessed": 1776326594124,
+      "type": "file"
+    },
+    {
+      "path": "src/main/java/kr/ac/hansung/cse/exception/DuplicateCategoryException.java",
+      "accessCount": 1,
+      "lastAccessed": 1776326596320,
+      "type": "file"
+    },
+    {
+      "path": "src/main/java/kr/ac/hansung/cse/service/CategoryService.java",
+      "accessCount": 1,
+      "lastAccessed": 1776326897514,
       "type": "file"
     }
   ],
