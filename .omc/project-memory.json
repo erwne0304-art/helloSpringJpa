@@ -70,8 +70,26 @@
   "hotPaths": [
     {
       "path": "src/main/webapp/WEB-INF/views/productList.html",
-      "accessCount": 4,
-      "lastAccessed": 1776327120953,
+      "accessCount": 6,
+      "lastAccessed": 1776345347999,
+      "type": "file"
+    },
+    {
+      "path": "src/main/java/kr/ac/hansung/cse/controller/ProductController.java",
+      "accessCount": 5,
+      "lastAccessed": 1776345323384,
+      "type": "file"
+    },
+    {
+      "path": "src/main/java/kr/ac/hansung/cse/repository/ProductRepository.java",
+      "accessCount": 3,
+      "lastAccessed": 1776345286955,
+      "type": "file"
+    },
+    {
+      "path": "src/main/java/kr/ac/hansung/cse/service/ProductService.java",
+      "accessCount": 3,
+      "lastAccessed": 1776345294223,
       "type": "file"
     },
     {
@@ -114,24 +132,6 @@
       "path": "src/main/java/kr/ac/hansung/cse/repository/CategoryRepository.java",
       "accessCount": 2,
       "lastAccessed": 1776326606695,
-      "type": "file"
-    },
-    {
-      "path": "src/main/java/kr/ac/hansung/cse/controller/ProductController.java",
-      "accessCount": 1,
-      "lastAccessed": 1776324629091,
-      "type": "file"
-    },
-    {
-      "path": "src/main/java/kr/ac/hansung/cse/service/ProductService.java",
-      "accessCount": 1,
-      "lastAccessed": 1776324629649,
-      "type": "file"
-    },
-    {
-      "path": "src/main/java/kr/ac/hansung/cse/repository/ProductRepository.java",
-      "accessCount": 1,
-      "lastAccessed": 1776324630094,
       "type": "file"
     },
     {

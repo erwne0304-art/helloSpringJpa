@@ -1,7 +1,7 @@
 {
   "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"git push origin master\"}",
-  "error": "Exit code 128\nremote: Permission to erwne0304-art/helloSpringJpa.git denied to nYeonG4001.\nfatal: unable to access 'https://github.com/erwne0304-art/helloSpringJpa.git/': The requested URL returned error: 403",
-  "timestamp": "2026-04-16T07:49:39.364Z",
+  "tool_input_preview": "{\"command\":\"docker rm -f spring-mvc-tomcat 2>/dev/null; docker-compose up -d 2>&1 && sleep 10 && docker-compose logs tomcat 2>&1 | grep -E \\\"(Server startup|startup failed|ERROR|SEVERE.*Context)\\\" | h...",
+  "error": "Exit code 1\nunable to get image 'tomcat:11.0-jdk21': Cannot connect to the Docker daemon at unix:///Users/erwne/.docker/run/docker.sock. Is the docker daemon running?",
+  "timestamp": "2026-04-16T13:16:02.956Z",
   "retry_count": 1
 }
